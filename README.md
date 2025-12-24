@@ -1,7 +1,7 @@
 # Hi there <img src="https://community.facer.io/uploads/default/original/3X/d/0/d011405990682a3ee8b640a013562a84edb8c702.gif" width="30" />
 
 
-I'm [Kirtan](https://kirtanb-05.github.io/Portfolio/), a trying engineer based in Nepal.
+I'm [Kirtan](https://kirtanb-05.github.io/Portfolio/), an engineering student, engineering is not engineering atm.
 
 I brainstorm and try to build whatever I can imagine.  
 
