@@ -4,11 +4,13 @@
 I'm [Kirtan](https://kirtanb-05.github.io/Portfolio/), a trying engineer based in Nepal.
 
 I brainstorm and try to build whatever I can imagine.  
+
 Most ideas stay in my head longer than they should — incubation period, not procrastination.
 
 My main tech stack is JavaScript, HTML, CSS, and ChatGPT.
 
 I've created and deleted over 1000 repositories.  
+
 Think of it as R&D… with a very low success rate.
 
 Fun facts:
